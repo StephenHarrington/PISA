@@ -1,0 +1,265 @@
+variable	name	category	year	question	type	size	field	start 	 end
+CNT	Country	ID	0	Country	Char	3 	1	1	3
+SUBNATIO	Sub-Nation	ID	0	Sub-Nation	Char	7 	2	4	10
+STRATUM	Stratum	ID	0	Stratum	Char	7 	3	11	17
+OECD	OECD Country	ID	0	OECD Country	Char	1 	4	18	18
+NC	NC	ID	0	NC	Char	6 	5	19	24
+SCHOOLID	School ID	ID	0	School ID	Char	7 	6	25	31
+STIDSTD	Student ID	ID	0	Student ID	Char	5 	7	32	36
+BOOKID	Book ID	ID	0	Book ID	Char	2 	8	37	38
+PM00FQ01	MATH - P2012 Apartment Purchase Q1	MATH	2012	Apartment Purchase Q1	Char	1 	9	39	39
+PM00GQ01	MATH - P2012 An Advertising Column Q1	MATH	2012	An Advertising Column Q1	Char	1 	10	40	40
+PM00KQ02	MATH - P2012 Wheelchair Basketball Q2	MATH	2012	Wheelchair Basketball Q2	Char	1 	11	41	41
+PM033Q01	MATH - P2000 A View with a Room Q1	MATH	2000	A View with a Room Q1	Char	1 	12	42	42
+PM034Q01T	MATH - P2000 Bricks Q1	MATH	2000	Bricks Q1	Char	1 	13	43	43
+PM155Q01	MATH - P2000 Pop Pyramids Q1	MATH	2000	Pop Pyramids Q1	Char	1 	14	44	44
+PM155Q02D	MATH - P2000 Pop Pyramids Q2	MATH	2000	Pop Pyramids Q2	Char	1 	15	45	45
+PM155Q03D	MATH - P2000 Pop Pyramids Q3	MATH	2000	Pop Pyramids Q3	Char	1 	16	46	46
+PM155Q04T	MATH - P2000 Pop Pyramids Q4	MATH	2000	Pop Pyramids Q4	Char	1 	17	47	47
+PM192Q01T	MATH - P2000 Containers Q1	MATH	2000	Containers Q1	Char	1 	18	48	48
+PM273Q01T	MATH - P2000 Pipelines Q1	MATH	2000	Pipelines Q1	Char	1 	19	49	49
+PM305Q01	MATH - P2000 Map Q1	MATH	2000	Map Q1	Char	1 	20	50	50
+PM406Q01	MATH - P2003 Running Tracks Q1	MATH	2003	Running Tracks Q1	Char	1 	21	51	51
+PM406Q02	MATH - P2003 Running Tracks Q2	MATH	2003	Running Tracks Q2	Char	1 	22	52	52
+PM408Q01T	MATH - P2003 Lotteries Q1	MATH	2003	Lotteries Q1	Char	1 	23	53	53
+PM411Q01	MATH - P2003 Diving Q1	MATH	2003	Diving Q1	Char	1 	24	54	54
+PM411Q02	MATH - P2003 Diving Q2	MATH	2003	Diving Q2	Char	1 	25	55	55
+PM420Q01T	MATH - P2003 Transport Q1	MATH	2003	Transport Q1	Char	1 	26	56	56
+PM423Q01	MATH - P2003 Tossing Coins Q1	MATH	2003	Tossing Coins Q1	Char	1 	27	57	57
+PM442Q02	MATH - P2003 Braille Q2	MATH	2003	Braille Q2	Char	1 	28	58	58
+PM446Q01	MATH - P2003 The Thermometer Cricket Q1	MATH	2003	The Thermometer Cricket Q1	Char	1 	29	59	59
+PM446Q02	MATH - P2003 The Thermometer Cricket Q2	MATH	2003	The Thermometer Cricket Q2	Char	1 	30	60	60
+PM447Q01	MATH - P2003 Tile Arrangement Q1	MATH	2003	Tile Arrangement Q1	Char	1 	31	61	61
+PM462Q01D	MATH - P2003 The Third Side Q1	MATH	2003	The Third Side Q1	Char	1 	32	62	62
+PM464Q01T	MATH - P2003 The Fence Q1	MATH	2003	The Fence Q1	Char	1 	33	63	63
+PM474Q01	MATH - P2003 Running Time Q1	MATH	2003	Running Time Q1	Char	1 	34	64	64
+PM496Q01T	MATH - P2003 Cash Withdrawal Q1	MATH	2003	Cash Withdrawal Q1	Char	1 	35	65	65
+PM496Q02	MATH - P2003 Cash Withdrawal Q2	MATH	2003	Cash Withdrawal Q2	Char	1 	36	66	66
+PM559Q01	MATH - P2003 Telephone Rates Q1	MATH	2003	Telephone Rates Q1	Char	1 	37	67	67
+PM564Q01	MATH - P2003 Chair Lift Q1	MATH	2003	Chair Lift Q1	Char	1 	38	68	68
+PM564Q02	MATH - P2003 Chair Lift Q2	MATH	2003	Chair Lift Q2	Char	1 	39	69	69
+PM571Q01	MATH - P2003 Stop the Car Q1	MATH	2003	Stop the Car Q1	Char	1 	40	70	70
+PM603Q01T	MATH - P2003 Number Check Q1 	MATH	2003	Number Check Q1	Char	1 	41	71	71
+PM800Q01	MATH - P2003 Computer Game Q1	MATH	2003	Computer Game Q1	Char	1 	42	72	72
+PM803Q01T	MATH - P2003 Labels Q1	MATH	2003	Labels Q1	Char	1 	43	73	73
+PM828Q01	MATH - P2003 Carbon Dioxide Q1	MATH	2003	Carbon Dioxide Q1	Char	1 	44	74	74
+PM828Q02	MATH - P2003 Carbon Dioxide Q2	MATH	2003	Carbon Dioxide Q2	Char	1 	45	75	75
+PM828Q03	MATH - P2003 Carbon Dioxide Q3	MATH	2003	Carbon Dioxide Q3	Char	1 	46	76	76
+PM903Q01	MATH - P2012 Drip Rate Q1	MATH	2012	Drip Rate Q1	Char	1 	47	77	77
+PM903Q03	MATH - P2012 Drip Rate Q3	MATH	2012	Drip Rate Q3	Char	1 	48	78	78
+PM905Q01T	MATH - P2012 Tennis Balls Q1	MATH	2012	Tennis Balls Q1	Char	1 	49	79	79
+PM905Q02	MATH - P2012 Tennis Balls Q2	MATH	2012	Tennis Balls Q2	Char	1 	50	80	80
+PM906Q01	MATH - P2012 Crazy Ants Q1	MATH	2012	Crazy Ants Q1	Char	1 	51	81	81
+PM906Q02	MATH - P2012 Crazy Ants Q2	MATH	2012	Crazy Ants Q2	Char	1 	52	82	82
+PM909Q01	MATH - P2012 Speeding Fines Q1	MATH	2012	Speeding Fines Q1	Char	1 	53	83	83
+PM909Q02	MATH - P2012 Speeding Fines Q2	MATH	2012	Speeding Fines Q2	Char	1 	54	84	84
+PM909Q03	MATH - P2012 Speeding Fines Q3	MATH	2012	Speeding Fines Q3	Char	1 	55	85	85
+PM915Q01	MATH - P2012 Carbon Tax Q1	MATH	2012	Carbon Tax Q1	Char	1 	56	86	86
+PM915Q02	MATH - P2012 Carbon Tax Q2	MATH	2012	Carbon Tax Q2	Char	1 	57	87	87
+PM918Q01	MATH - P2012 Charts Q1	MATH	2012	Charts Q1	Char	1 	58	88	88
+PM918Q02	MATH - P2012 Charts Q2	MATH	2012	Charts Q2	Char	1 	59	89	89
+PM918Q05	MATH - P2012 Charts Q5	MATH	2012	Charts Q5	Char	1 	60	90	90
+PM919Q01	MATH - P2012 Zs Fan Merchandise Q1	MATH	2012	Zs Fan Merchandise Q1	Char	1 	61	91	91
+PM919Q02	MATH - P2012 Zs Fan Merchandise Q2	MATH	2012	Zs Fan Merchandise Q2	Char	1 	62	92	92
+PM923Q01	MATH - P2012 Sailing Ships Q1	MATH	2012	Sailing Ships Q1	Char	1 	63	93	93
+PM923Q03	MATH - P2012 Sailing Ships Q3	MATH	2012	Sailing Ships Q3	Char	1 	64	94	94
+PM923Q04	MATH - P2012 Sailing Ships Q4	MATH	2012	Sailing Ships Q4	Char	1 	65	95	95
+PM924Q02	MATH - P2012 Sauce Q2	MATH	2012	Sauce Q2	Char	1 	66	96	96
+PM934Q01	MATH - P2012 London Eye Q1	MATH	2012	London Eye Q1	Char	1 	67	97	97
+PM934Q02	MATH - P2012 London Eye Q2	MATH	2012	London Eye Q2	Char	1 	68	98	98
+PM936Q01	MATH - P2012 Seats In A Theatre Q1	MATH	2012	Seats In A Theatre Q1	Char	1 	69	99	99
+PM936Q02	MATH - P2012 Seats In A Theatre Q2	MATH	2012	Seats In A Theatre Q2	Char	1 	70	100	100
+PM939Q01	MATH - P2012 Racing Q1	MATH	2012	Racing Q1	Char	1 	71	101	101
+PM939Q02	MATH - P2012 Racing Q2	MATH	2012	Racing Q2	Char	1 	72	102	102
+PM942Q01	MATH - P2012 Climbing Mount Fuji Q1	MATH	2012	Climbing Mount Fuji Q1	Char	1 	73	103	103
+PM942Q02	MATH - P2012 Climbing Mount Fuji Q2	MATH	2012	Climbing Mount Fuji Q2	Char	1 	74	104	104
+PM942Q03	MATH - P2012 Climbing Mount Fuji Q3	MATH	2012	Climbing Mount Fuji Q3	Char	1 	75	105	105
+PM943Q01	MATH - P2012 Arches Q1	MATH	2012	Arches Q1	Char	1 	76	106	106
+PM943Q02	MATH - P2012 Arches Q2	MATH	2012	Arches Q2	Char	1 	77	107	107
+PM948Q01	MATH - P2012 Part-Time Work Q1	MATH	2012	Part-Time Work Q1	Char	1 	78	108	108
+PM948Q02	MATH - P2012 Part-Time Work Q2	MATH	2012	Part-Time Work Q2	Char	1 	79	109	109
+PM948Q03	MATH - P2012 Part-Time Work Q3	MATH	2012	Part-Time Work Q3	Char	1 	80	110	110
+PM949Q01T	MATH - P2012 Roof Truss Design Q1	MATH	2012	Roof Truss Design Q1	Char	1 	81	111	111
+PM949Q02T	MATH - P2012 Roof Truss Design Q2	MATH	2012	Roof Truss Design Q2	Char	1 	82	112	112
+PM949Q03	MATH - P2012 Roof Truss Design Q3	MATH	2012	Roof Truss Design Q3	Char	1 	83	113	113
+PM953Q02	MATH - P2012 Flu Test Q2	MATH	2012	Flu Test Q2	Char	1 	84	114	114
+PM953Q03	MATH - P2012 Flu Test Q3	MATH	2012	Flu Test Q3	Char	1 	85	115	115
+PM953Q04D	MATH - P2012 Flu Test Q4	MATH	2012	Flu Test Q4	Char	1 	86	116	116
+PM954Q01	MATH - P2012 Medicine Doses Q1	MATH	2012	Medicine Doses Q1	Char	1 	87	117	117
+PM954Q02	MATH - P2012 Medicine Doses Q2	MATH	2012	Medicine Doses Q2	Char	1 	88	118	118
+PM954Q04	MATH - P2012 Medicine Doses Q4	MATH	2012	Medicine Doses Q4	Char	1 	89	119	119
+PM955Q01	MATH - P2012 Migration Q1	MATH	2012	Migration Q1	Char	1 	90	120	120
+PM955Q02	MATH - P2012 Migration Q2	MATH	2012	Migration Q2	Char	1 	91	121	121
+PM955Q03	MATH - P2012 Migration Q3	MATH	2012	Migration Q3	Char	1 	92	122	122
+PM957Q01	MATH - P2012 Helen The Cyclist Q1	MATH	2012	Helen The Cyclist Q1	Char	1 	93	123	123
+PM957Q02	MATH - P2012 Helen The Cyclist Q2	MATH	2012	Helen The Cyclist Q2	Char	1 	94	124	124
+PM957Q03	MATH - P2012 Helen The Cyclist Q3	MATH	2012	Helen The Cyclist Q3	Char	1 	95	125	125
+PM961Q02	MATH - P2012 Chocolate Q2	MATH	2012	Chocolate Q2	Char	1 	96	126	126
+PM961Q03	MATH - P2012 Chocolate Q3	MATH	2012	Chocolate Q3	Char	1 	97	127	127
+PM961Q05	MATH - P2012 Chocolate Q5	MATH	2012	Chocolate Q5	Char	1 	98	128	128
+PM967Q01	MATH - P2012 Wooden Train Set Q1	MATH	2012	Wooden Train Set Q1	Char	1 	99	129	129
+PM967Q03T	MATH - P2012 Wooden Train Set Q3	MATH	2012	Wooden Train Set Q3	Char	1 	100	130	130
+PM982Q01	MATH - P2012 Employment Data Q1	MATH	2012	Employment Data Q1	Char	1 	101	131	131
+PM982Q02	MATH - P2012 Employment Data Q2	MATH	2012	Employment Data Q2	Char	1 	102	132	132
+PM982Q03T	MATH - P2012 Employment Data Q3	MATH	2012	Employment Data Q3	Char	1 	103	133	133
+PM982Q04	MATH - P2012 Employment Data Q4	MATH	2012	Employment Data Q4	Char	1 	104	134	134
+PM985Q01	MATH - P2012 Which Car Q1	MATH	2012	Which Car Q1	Char	1 	105	135	135
+PM985Q02	MATH - P2012 Which Car Q2	MATH	2012	Which Car Q2	Char	1 	106	136	136
+PM985Q03	MATH - P2012 Which Car Q3	MATH	2012	Which Car Q3	Char	1 	107	137	137
+PM991Q01	MATH - P2012 Garage Q1	MATH	2012	Garage Q1	Char	1 	108	138	138
+PM991Q02D	MATH - P2012 Garage Q2	MATH	2012	Garage Q2	Char	1 	109	139	139
+PM992Q01	MATH - P2012 Spacers Q1	MATH	2012	Spacers Q1	Char	1 	110	140	140
+PM992Q02	MATH - P2012 Spacers Q2	MATH	2012	Spacers Q2	Char	1 	111	141	141
+PM992Q03	MATH - P2012 Spacers Q3	MATH	2012	Spacers Q3	Char	1 	112	142	142
+PM995Q01	MATH - P2012 Revolving Door Q1	MATH	2012	Revolving Door Q1	Char	1 	113	143	143
+PM995Q02	MATH - P2012 Revolving Door Q2	MATH	2012	Revolving Door Q2	Char	1 	114	144	144
+PM995Q03	MATH - P2012 Revolving Door Q3	MATH	2012	Revolving Door Q3	Char	1 	115	145	145
+PM998Q02	MATH - P2012 Bike Rental Q2	MATH	2012	Bike Rental Q2	Char	1 	116	146	146
+PM998Q04T	MATH - P2012 Bike Rental Q4	MATH	2012	Bike Rental Q4	Char	1 	117	147	147
+PR220Q01	READ - P2000 South Pole Q1	READ	2000	South Pole Q1	Char	1 	118	148	148
+PR220Q02B	READ - P2000 South Pole Q2B	READ	2000	South Pole Q2B	Char	1 	119	149	149
+PR220Q04	READ - P2000 South Pole Q4	READ	2000	South Pole Q4	Char	1 	120	150	150
+PR404Q03	READ - P2009 Sleep Q3	READ	2009	Sleep Q3	Char	1 	121	151	151
+PR404Q06	READ - P2009 Sleep Q6	READ	2009	Sleep Q6	Char	1 	122	152	152
+PR404Q07T	READ - P2009 Sleep Q7	READ	2009	Sleep Q7	Char	1 	123	153	153
+PR404Q10A	READ - P2009 Sleep Q10A	READ	2009	Sleep Q10A	Char	1 	124	154	154
+PR404Q10B	READ - P2009 Sleep Q10B	READ	2009	Sleep Q10B	Char	1 	125	155	155
+PR406Q01	READ - P2009 Kokeshi Dolls Q1	READ	2009	Kokeshi Dolls Q1	Char	1 	126	156	156
+PR406Q02	READ - P2009 Kokeshi Dolls Q2	READ	2009	Kokeshi Dolls Q2	Char	1 	127	157	157
+PR406Q05	READ - P2009 Kokeshi Dolls Q5	READ	2009	Kokeshi Dolls Q5	Char	1 	128	158	158
+PR412Q01	READ - P2009 World Languages Q1	READ	2009	World Languages Q1	Char	1 	129	159	159
+PR412Q05	READ - P2009 World Languages Q5	READ	2009	World Languages Q5	Char	1 	130	160	160
+PR412Q06T	READ - P2009 World Languages Q6	READ	2009	World Languages Q6	Char	1 	131	161	161
+PR412Q08	READ - P2009 World Languages Q8	READ	2009	World Languages Q8	Char	1 	132	162	162
+PR420Q02	READ - P2009 Childrens Futures Q2	READ	2009	Childrens Futures Q2	Char	1 	133	163	163
+PR420Q06	READ - P2009 Childrens Futures Q6	READ	2009	Childrens Futures Q6	Char	1 	134	164	164
+PR420Q09	READ - P2009 Childrens Futures Q9	READ	2009	Childrens Futures Q9	Char	1 	135	165	165
+PR420Q10	READ - P2009 Childrens Futures Q10	READ	2009	Childrens Futures Q10	Char	1 	136	166	166
+PR424Q02T	READ - P2009 Fair Trade Q2	READ	2009	Fair Trade Q2	Char	1 	137	167	167
+PR424Q03	READ - P2009 Fair Trade Q3	READ	2009	Fair Trade Q3	Char	1 	138	168	168
+PR424Q07	READ - P2009 Fair Trade Q7	READ	2009	Fair Trade Q7	Char	1 	139	169	169
+PR432Q01	READ - P2009 About a book Q1	READ	2009	About a book Q1	Char	1 	140	170	170
+PR432Q05	READ - P2009 About a book Q5	READ	2009	About a book Q5	Char	1 	141	171	171
+PR432Q06T	READ - P2009 About a book Q6	READ	2009	About a book Q6	Char	1 	142	172	172
+PR437Q01	READ - P2009 Narcissus Q1	READ	2009	Narcissus Q1	Char	1 	143	173	173
+PR437Q06	READ - P2009 Narcissus Q6	READ	2009	Narcissus Q6	Char	1 	144	174	174
+PR437Q07	READ - P2009 Narcissus Q7	READ	2009	Narcissus Q7	Char	1 	145	175	175
+PR446Q03	READ - P2009 Job Vacancy Q3	READ	2009	Job Vacancy Q3	Char	1 	146	176	176
+PR446Q06	READ - P2009 Job Vacancy Q6	READ	2009	Job Vacancy Q6	Char	1 	147	177	177
+PR453Q01	READ - P2009 Find Summer Job Q1	READ	2009	Find Summer Job Q1	Char	1 	148	178	178
+PR453Q04	READ - P2009 Find Summer Job Q4	READ	2009	Find Summer Job Q4	Char	1 	149	179	179
+PR453Q05T	READ - P2009 Find Summer Job Q5	READ	2009	Find Summer Job Q5	Char	1 	150	180	180
+PR453Q06	READ - P2009 Find Summer Job Q6	READ	2009	Find Summer Job Q6	Char	1 	151	181	181
+PR455Q02	READ - P2009 Chocolate and Health Q2	READ	2009	Chocolate and Health Q2	Char	1 	152	182	182
+PR455Q03	READ - P2009 Chocolate and Health Q3	READ	2009	Chocolate and Health Q3	Char	1 	153	183	183
+PR455Q04	READ - P2009 Chocolate and Health Q4	READ	2009	Chocolate and Health Q4	Char	1 	154	184	184
+PR455Q05T	READ - P2009 Chocolate and Health Q5	READ	2009	Chocolate and Health Q5	Char	1 	155	185	185
+PR456Q01	READ - P2009 Biscuits Q1	READ	2009	Biscuits Q1	Char	1 	156	186	186
+PR456Q02	READ - P2009 Biscuits Q2	READ	2009	Biscuits Q2	Char	1 	157	187	187
+PR456Q06	READ - P2009 Biscuits Q6	READ	2009	Biscuits Q6	Char	1 	158	188	188
+PR466Q02	READ - P2009 Work Right Q2	READ	2009	Work Right Q2	Char	1 	159	189	189
+PR466Q03T	READ - P2009 Work Right Q3	READ	2009	Work Right Q3	Char	1 	160	190	190
+PR466Q06	READ - P2009 Work Right Q6	READ	2009	Work Right Q6	Char	1 	161	191	191
+PS131Q02D	SCIE - P2000 Good Vibrations Q2	SCIE	2000	Good Vibrations Q2	Char	1 	162	192	192
+PS131Q04D	SCIE - P2006 Good Vibrations Q4	SCIE	2006	Good Vibrations Q4	Char	1 	163	193	193
+PS256Q01	SCIE - P2000 Spoons Q1	SCIE	2000	Spoons Q1	Char	1 	164	194	194
+PS269Q01	SCIE - P2000 Earths Temperature Q1	SCIE	2000	Earths Temperature Q1	Char	1 	165	195	195
+PS269Q03D	SCIE - P2000 Earths Temperature Q3	SCIE	2000	Earths Temperature Q3	Char	1 	166	196	196
+PS269Q04T	SCIE - P2000 Earths Temperature Q4	SCIE	2000	Earths Temperature Q4	Char	1 	167	197	197
+PS326Q01	SCIE - P2003 Milk Q1	SCIE	2003	Milk Q1	Char	1 	168	198	198
+PS326Q02	SCIE - P2003 Milk Q2	SCIE	2003	Milk Q2	Char	1 	169	199	199
+PS326Q03	SCIE - P2003 Milk Q3	SCIE	2003	Milk Q3	Char	1 	170	200	200
+PS326Q04T	SCIE - P2003 Milk Q4	SCIE	2003	Milk Q4	Char	1 	171	201	201
+PS408Q01	SCIE - P2006 Wild Oat Grass Q1	SCIE	2006	Wild Oat Grass Q1	Char	1 	172	202	202
+PS408Q03	SCIE - P2006 Wild Oat Grass Q3	SCIE	2006	Wild Oat Grass Q3	Char	1 	173	203	203
+PS408Q04T	SCIE - P2006 Wild Oat Grass Q4	SCIE	2006	Wild Oat Grass Q4	Char	1 	174	204	204
+PS408Q05	SCIE - P2006 Wild Oat Grass Q5	SCIE	2006	Wild Oat Grass Q5	Char	1 	175	205	205
+PS413Q04T	SCIE - P2006 Plastic Age Q4	SCIE	2006	Plastic Age Q4	Char	1 	176	206	206
+PS413Q05	SCIE - P2006 Plastic Age Q5	SCIE	2006	Plastic Age Q5	Char	1 	177	207	207
+PS413Q06	SCIE - P2006 Plastic Age Q6	SCIE	2006	Plastic Age Q6	Char	1 	178	208	208
+PS415Q02	SCIE - P2006 Solar Panels Q2	SCIE	2006	Solar Panels Q2	Char	1 	179	209	209
+PS415Q07T	SCIE - P2006 Solar Panels Q7	SCIE	2006	Solar Panels Q7	Char	1 	180	210	210
+PS415Q08T	SCIE - P2006 Solar Panels Q8	SCIE	2006	Solar Panels Q8	Char	1 	181	211	211
+PS425Q02	SCIE - P2006 Penguin Island Q2	SCIE	2006	Penguin Island Q2	Char	1 	182	212	212
+PS425Q03	SCIE - P2006 Penguin Island Q3	SCIE	2006	Penguin Island Q3	Char	1 	183	213	213
+PS425Q04	SCIE - P2006 Penguin Island Q4	SCIE	2006	Penguin Island Q4	Char	1 	184	214	214
+PS425Q05	SCIE - P2006 Penguin Island Q5	SCIE	2006	Penguin Island Q5	Char	1 	185	215	215
+PS428Q01	SCIE - P2006 Bacteria in Milk Q1	SCIE	2006	Bacteria in Milk Q1	Char	1 	186	216	216
+PS428Q03	SCIE - P2006 Bacteria in Milk Q3	SCIE	2006	Bacteria in Milk Q3	Char	1 	187	217	217
+PS428Q05	SCIE - P2006 Bacteria in Milk Q5	SCIE	2006	Bacteria in Milk Q5	Char	1 	188	218	218
+PS438Q01T	SCIE - P2006 Green Parks Q1	SCIE	2006	Green Parks Q1	Char	1 	189	219	219
+PS438Q02	SCIE - P2006 Green Parks Q2	SCIE	2006	Green Parks Q2	Char	1 	190	220	220
+PS438Q03D	SCIE - P2006 Green Parks Q3	SCIE	2006	Green Parks Q3	Char	1 	191	221	221
+PS465Q01	SCIE - P2006 Different Climates Q1	SCIE	2006	Different Climates Q1	Char	1 	192	222	222
+PS465Q02	SCIE - P2006 Different Climates Q2	SCIE	2006	Different Climates Q2	Char	1 	193	223	223
+PS465Q04	SCIE - P2006 Different Climates Q4	SCIE	2006	Different Climates Q4	Char	1 	194	224	224
+PS466Q01T	SCIE - P2006 Forest Fires Q1	SCIE	2006	Forest Fires Q1	Char	1 	195	225	225
+PS466Q05	SCIE - P2006 Forest Fires Q5	SCIE	2006	Forest Fires Q5	Char	1 	196	226	226
+PS466Q07T	SCIE - P2006 Forest Fires Q7	SCIE	2006	Forest Fires Q7	Char	1 	197	227	227
+PS478Q01	SCIE - P2006 Antibiotics Q1	SCIE	2006	Antibiotics Q1	Char	1 	198	228	228
+PS478Q02T	SCIE - P2006 Antibiotics Q2	SCIE	2006	Antibiotics Q2	Char	1 	199	229	229
+PS478Q03T	SCIE - P2006 Antibiotics Q3	SCIE	2006	Antibiotics Q3	Char	1 	200	230	230
+PS498Q02T	SCIE - P2006 Experimental Digestion Q2	SCIE	2006	Experimental Digestion Q2	Char	1 	201	231	231
+PS498Q03	SCIE - P2006 Experimental Digestion Q3	SCIE	2006	Experimental Digestion Q3	Char	1 	202	232	232
+PS498Q04	SCIE - P2006 Experimental Digestion Q4	SCIE	2006	Experimental Digestion Q4	Char	1 	203	233	233
+PS514Q02	SCIE - P2006 Development and Disaster Q2	SCIE	2006	Development and Disaster Q2	Char	1 	204	234	234
+PS514Q03	SCIE - P2006 Development and Disaster Q3	SCIE	2006	Development and Disaster Q3	Char	1 	205	235	235
+PS514Q04	SCIE - P2006 Development and Disaster Q4	SCIE	2006	Development and Disaster Q4	Char	1 	206	236	236
+PS519Q01	SCIE - P2006 Airbags Q1	SCIE	2006	Airbags Q1	Char	1 	207	237	237
+PS519Q02T	SCIE - P2006 Airbags Q2	SCIE	2006	Airbags Q2	Char	1 	208	238	238
+PS519Q03	SCIE - P2006 Airbags Q3	SCIE	2006	Airbags Q3	Char	1 	209	239	239
+PS521Q02	SCIE - P2006 Cooking Outdoors Q2	SCIE	2006	Cooking Outdoors Q2	Char	1 	210	240	240
+PS521Q06	SCIE - P2006 Cooking Outdoors Q6	SCIE	2006	Cooking Outdoors Q6	Char	1 	211	241	241
+PS527Q01T	SCIE - P2006 Extinction of the Dinosaurs Q1 	SCIE	2006	Extinction of the Dinosaurs Q1	Char	1 	212	242	242
+PS527Q03T	SCIE - P2006 Extinction of the Dinosaurs Q3	SCIE	2006	Extinction of the Dinosaurs Q3	Char	1 	213	243	243
+PS527Q04T	SCIE - P2006 Extinction of the Dinosaurs Q4	SCIE	2006	Extinction of the Dinosaurs Q4	Char	1 	214	244	244
+PM155Q02R	MATH - P2000 Pop Pyramids Q2 - original responses	MATH	2000	Pop Pyramids Q2 - original responses	Char	2 	215	245	246
+PM155Q03R	MATH - P2000 Pop Pyramids Q3 - original responses	MATH	2000	Pop Pyramids Q3 - original responses	Char	2 	216	247	248
+PM462Q01R	MATH - P2003 The Third Side Q1 - original responses	MATH	2003	The Third Side Q1 - original responses	Char	2 	217	249	250
+PM953Q04R	MATH - P2012 Flu Test Q4 - original responses	MATH	2012	Flu Test Q4 - original responses	Char	2 	218	251	252
+PM991Q02R	MATH - P2012 Garage Q2 - original responses	MATH	2012	Garage Q2 - original responses	Char	2 	219	253	254
+PS131Q02R	SCIE - P2000 Good Vibrations Q2 - original responses	SCIE	2000	Good Vibrations Q2 - original responses	Char	2 	220	255	256
+PS269Q03R	SCIE - P2000 Earths Temperature Q3 - original responses	SCIE	2000	Earths Temperature Q3 - original responses	Char	2 	221	257	258
+PS131Q04R	SCIE - P2006 Good Vibrations Q4 - original responses	SCIE	2006	Good Vibrations Q4 - original responses	Char	2 	222	259	260
+PS438Q03R	SCIE - P2006 Green Parks Q3 - original responses	SCIE	2006	Green Parks Q3 - original responses	Char	2 	223	261	262
+PM034Q01R	MATH - P2000 Bricks Q1 - original responses	MATH	2000	Bricks Q1 - original responses	Num	4 	224	263	266
+PM155Q04R	MATH - P2000 Pop Pyramids Q4 - original responses	MATH	2000	Pop Pyramids Q4 - original responses	Char	4 	225	267	270
+PM192Q01R	MATH - P2000 Containers Q1 - original responses	MATH	2000	Containers Q1 - original responses	Char	3 	226	271	273
+PM273Q01R	MATH - P2000 Pipelines Q1 - original responses	MATH	2000	Pipelines Q1 - original responses	Char	4 	227	274	277
+PM408Q01R	MATH - P2003 Lotteries Q1 - original responses	MATH	2003	Lotteries Q1 - original responses	Char	4 	228	278	281
+PM420Q01R	MATH - P2003 Transport Q1 - original responses	MATH	2003	Transport Q1 - original responses	Char	4 	229	282	285
+PM464Q01R	MATH - P2003 The Fence Q1 - original responses	MATH	2003	The Fence Q1 - original responses	Num	4 	230	286	289
+PM496Q01R	MATH - P2003 Cash Withdrawal Q1 - original responses	MATH	2003	Cash Withdrawal Q1 - original responses	Char	4 	231	290	293
+PM603Q01R	MATH - P2003 Nunber Check Q1 - original responses	MATH	2003	Nunber Check Q1 - original responses	Char	3 	232	294	296
+PM803Q01R	MATH - P2003 Labels Q1 - original responses	MATH	2003	Labels Q1 - original responses	Num	4 	233	297	300
+PM905Q01R	MATH - P2012 Tennis Balls Q1 - original responses	MATH	2012	Tennis Balls Q1 - original responses	Char	2 	234	301	302
+PM949Q01R	MATH - P2012 Roof Truss Design Q1 - original responses	MATH	2012	Roof Truss Design Q1 - original responses	Char	3 	235	303	305
+PM949Q02R	MATH - P2012 Roof Truss Design Q2 - original responses	MATH	2012	Roof Truss Design Q2 - original responses	Char	3 	236	306	308
+PM967Q03R	MATH - P2012 Wooden Train Set Q3 - original responses	MATH	2012	Wooden Train Set Q3 - original responses	Char	2 	237	309	310
+PM982Q03R	MATH - P2012 Employment Data Q3 - original responses	MATH	2012	Employment Data Q3 - original responses	Char	2 	238	311	312
+PM998Q04R	MATH - P2012 Bike Rental Q4 - original responses	MATH	2012	Bike Rental Q4 - original responses	Char	2 	239	313	314
+PR404Q07R	READ - P2009 Sleep Q7 - original responses	READ	2009	Sleep Q7 - original responses	Char	3 	240	315	317
+PR412Q06R	READ - P2009 World Languages Q6 - original responses	READ	2009	World Languages Q6 - original responses	Char	2 	241	318	319
+PR424Q02R	READ - P2009 Fair Trade Q2 - original responses	READ	2009	Fair Trade Q2 - original responses	Char	3 	242	320	322
+PR432Q06R	READ - P2009 About a book Q6 - original responses	READ	2009	About a book Q6 - original responses	Char	9 	243	323	331
+PR453Q05R	READ - P2009 Chocolate and Health Q5 - original responses	READ	2009	Chocolate and Health Q5 - original responses	Char	4 	244	332	335
+PR455Q05R	READ - P2009 Find Summer Job Q5 - original responses	READ	2009	Find Summer Job Q5 - original responses	Char	4 	245	336	339
+PR466Q03R	READ - P2009 Work Right Q3 - original responses	READ	2009	Work Right Q3 - original responses	Char	3 	246	340	342
+PS269Q04R	SCIE - P2000 Earths Temperature Q4 - original responses	SCIE	2000	Earths Temperature Q4 - original responses	Char	4 	247	343	346
+PS326Q04R	SCIE - P2003 Milk Q4 - original responses	SCIE	2003	Milk Q4 - original responses	Char	3 	248	347	349
+PS408Q04R	SCIE - P2006 Wild Oat Grass Q4 - original responses	SCIE	2006	Wild Oat Grass Q4 - original responses	Char	3 	249	350	352
+PS413Q04R	SCIE - P2006 Plastic Age Q4 - original responses	SCIE	2006	Plastic Age Q4 - original responses	Char	3 	250	353	355
+PS415Q07R	SCIE - P2006 Solar Panels Q7 - original responses	SCIE	2006	Solar Panels Q7 - original responses	Char	2 	251	356	357
+PS415Q08R	SCIE - P2006 Solar Panels Q8 - original responses	SCIE	2006	Solar Panels Q8 - original responses	Char	3 	252	358	360
+PS438Q01R	SCIE - P2006 Green Parks Q1 - original responses	SCIE	2006	Green Parks Q1 - original responses	Char	3 	253	361	363
+PS466Q01R	SCIE - P2006 Forest Fires Q1 - original responses	SCIE	2006	Forest Fires Q1 - original responses	Char	3 	254	364	366
+PS466Q07R	SCIE - P2006 Forest Fires Q7 - original responses	SCIE	2006	Forest Fires Q7 - original responses	Char	2 	255	367	368
+PS478Q02R	SCIE - P2006 Antibiotics Q2 - original responses	SCIE	2006	Antibiotics Q2 - original responses	Char	3 	256	369	371
+PS478Q03R	SCIE - P2006 Antibiotics Q3 - original responses	SCIE	2006	Antibiotics Q3 - original responses	Char	2 	257	372	373
+PS498Q02R	SCIE - P2006 Experimental Digestion Q2 - original responses	SCIE	2006	Experimental Digestion Q2 - original responses	Char	3 	258	374	376
+PS519Q02R	SCIE - P2006 Airbags Q2 - original responses	SCIE	2006	Airbags Q2 - original responses	Char	2 	259	377	378
+PS527Q01R	SCIE - P2006 Extinction of the Dinosaurs Q1 - original responses	SCIE	2006	Extinction of the Dinosaurs Q1 - original responses	Char	3 	260	379	381
+PS527Q03R	SCIE - P2006 Extinction of the Dinosaurs Q3 - original responses	SCIE	2006	Extinction of the Dinosaurs Q3 - original responses	Char	3 	261	382	384
+PS527Q04R	SCIE - P2006 Extinction of the Dinosaurs Q4 - original responses	SCIE	2006	Extinction of the Dinosaurs Q4 - original responses	Char	3 	262	385	387
+TESTLANG	Test Language	ID	0	Test Language	Char	3 	263	388	390
+VERSION	Verison	ID	0	Verison	Char	7 	264	390	396
