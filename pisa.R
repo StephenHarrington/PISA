@@ -130,20 +130,6 @@ hist( rScores, xlim = c( min( foo ), max( foo ) ),
 ## not all questions asked in all years; see below
 ## each of five years focus on math, reading or science
 
-##remove 'N/A's
-xScores <- subset(scores,result!='N/A' & !(variable %in% names(rScores)))
-foo<-tapply(xScores$frequency,xScores$variable,sum)
-foo<- foo[!is.na(foo)]  ##get rid of factors removed on subset
-hist(foo,xlim=c(min(foo),max(foo)),breaks=100,xlab='testers',
-     main='Distribution of Test Takers\nBy Question')
-
-##by year???
-xScores <- subset(questions,result!='N/A' & year==2012)
-foo<-tapply(xScores$frequency,xScores$variable,sum)
-foo<- foo[!is.na(foo)]  ##get rid of factors removed on subset
-hist(foo,xlim=c(min(foo),max(foo)),breaks=100,xlab='testers',
-     main='Distribution of Test Takers\nBy Question')
-
 
 
 ##
